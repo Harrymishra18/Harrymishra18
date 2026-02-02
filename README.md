@@ -1,5 +1,5 @@
 # 💫 About Me:
-Detail-oriented We b Developer skilled in building responsive and user-friendly web applications using modern
+Detail-oriented Web Developer skilled in building responsive and user-friendly web applications using modern
 technologies like React and Tailwind. Experienced in integrating technologies such as Supabase and SQL,
 along with deployment on Vercel and Netlify. Proficient in version control and collaborative development using Git
 and GitHub.
